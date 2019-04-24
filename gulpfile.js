@@ -26,5 +26,5 @@ gulp.task('default', ['browser-sync', 'sass'], function () {
 // run 'npm init' for create package.json if have't file
 
 // npm install --save-dev gulp
-// npm install --save-dev gulp-ruby-sass
+// npm i gulp-sass
 // npm install browser-sync gulp --save-dev

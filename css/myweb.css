@@ -1,0 +1,47 @@
+html {
+  width: 100%;
+  height: 100%; }
+
+.button {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px auto;
+  display: block;
+  width: 100%; }
+
+.button4 {
+  border-radius: 35px; }
+
+.logo {
+  width: 20%;
+  margin: 15px auto;
+  display: block; }
+
+.people {
+  width: 55%;
+  margin: 15px auto;
+  display: block; }
+
+body {
+  background-image: url("../pic/BG.png");
+  background-size: 100% auto;
+  background-repeat: no-repeat; }
+
+img {
+  margin-top: 5%; }
+
+pre {
+  font-size: 40px;
+  margin-bottom: 0%;
+  margin-top: 0%; }
+
+p {
+  font-size: 24px;
+  margin-bottom: 10%; }
