@@ -7,7 +7,7 @@ html {
     background-color: white;
     border: none;
     color: black;
-    padding: 8px 13px;
+    padding: 6px 11px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -23,7 +23,7 @@ html {
 }
 
 .logo {
-    width: 20%;
+    width: 17%;
     margin: 12px auto;
     display: block;
 }
