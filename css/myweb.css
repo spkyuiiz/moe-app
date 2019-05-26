@@ -1,47 +1,68 @@
 html {
-  width: 100%;
-  height: 100%; }
+    width: 100%;
+    height: 100%;
+}
 
 .button {
-  background-color: white;
-  border: none;
-  color: black;
-  padding: 15px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  cursor: pointer;
-  margin: 10px auto;
-  display: block;
-  width: 100%; }
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 8px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px auto;
+    display: block;
+    width: 90%;
+}
 
 .button4 {
-  border-radius: 35px; }
+    border-radius: 35px;
+}
 
 .logo {
-  width: 20%;
-  margin: 15px auto;
-  display: block; }
+    width: 20%;
+    margin: 12px auto;
+    display: block;
+}
 
 .people {
-  width: 55%;
-  margin: 15px auto;
-  display: block; }
+    width: 55%;
+    margin: 10px auto;
+    display: block;
+}
 
 body {
-  background-image: url("../pic/BG.png");
-  background-size: 100% auto;
-  background-repeat: no-repeat; }
+    background-image: url("../pic/BG.png");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
 
 img {
-  margin-top: 5%; }
+    margin-top: 2%;
+}
 
 pre {
-  font-size: 40px;
-  margin-bottom: 0%;
-  margin-top: 0%; }
+    font-size: 35px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
 
 p {
-  font-size: 24px;
-  margin-bottom: 10%; }
+    font-size: 16px;
+    margin-bottom: 10%;
+}
+
+.custom-btn {
+    color: red;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.custom-by {
+    text-align: center;
+    /* padding-top: 10px; */
+    font-size: 18px;
+}
