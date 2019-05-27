@@ -81,9 +81,10 @@ p {
     margin-left: 5%;
     margin-top: 10px;
     background-color: white;
+    width: 80%;
     /* padding-top: 8px;
     padding-bottom: 5px; */
-    font-size: 14px;
+    font-size: 12px;
     border-radius: 35px;
 }
 
