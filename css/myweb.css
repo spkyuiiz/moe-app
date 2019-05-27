@@ -67,3 +67,23 @@ p {
     /* padding-top: 10px; */
     font-size: 18px;
 }
+
+.menu-list {
+    margin-left: 5%;
+    margin-top: 10px;
+    background-color: white;
+    /* padding-top: 8px;
+    padding-bottom: 5px; */
+    font-size: 14px;
+    border-radius: 35px;
+}
+
+.main-title {
+    padding-bottom: 20px;
+}
+
+
+/* .main-box {
+    background-color: white;
+    width: 70%;
+} */
