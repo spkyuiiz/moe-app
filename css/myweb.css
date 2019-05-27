@@ -1,6 +1,7 @@
 html {
     width: 100%;
     height: 100%;
+    /* background-image: url("../pic/BG.png"); */
 }
 
 .button {
@@ -37,8 +38,16 @@ html {
 
 body {
     background-image: url("../pic/BG.png");
-    background-size: 100% auto;
+    /* background-size: 100% auto; */
     background-repeat: no-repeat;
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100% 100%, auto;
+    -moz-background-size: 100% 100%, auto;
+    -webkit-background-size: 100% 100%, auto;
+    background-size: 100% 100%, auto;
 }
 
 img {
